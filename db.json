@@ -25,7 +25,7 @@
             },
             "createdAt": "2019-05-21T13:38:40.142Z",
             "updatedAt": "2019-05-21T13:38:40.142Z",
-            "age": "",
+            "age": "5",
             "tags": [
                 {
                     "name": "#tag1",
@@ -90,6 +90,65 @@
                     "date": "2019-05-21T16:38:40.142Z"
                 }
             ]
+        }
+    ],
+    "ticketList": [
+        {
+            "uid": "sdjc1232nks",
+            "name": "Electricity faliure in generator G1",
+            "priority": {
+                "name": "High",
+                "value": 1
+            },
+            "takenUp": {
+                "email": "dj@sensehawk.com",
+                "uid": "Manz5bu87GDurBWRZ3Qsxx"
+            },
+            "updatedAt": "2019-05-21T13:38:40.142Z",
+            "age": "5",
+            "status": {
+                "name": "pending",
+                "value": 1,
+                "color": "#ff4000"
+            }
+        },
+        {
+            "uid": "jdjg1232tky",
+            "name": "Table T1 faliure",
+            "priority": {
+                "name": "High",
+                "value": 1
+            },
+            "takenUp": {
+                "email": "john@doe.com",
+                "uid": "RhrKa5y9c6RZaxcuLECK3b"
+            },
+            "updatedAt": "2019-06-12T13:38:40.142Z",
+            "age": "7",
+            "status": {
+                "name": "inProgress",
+                "value": 2,
+                "color": "#ffbf00"
+            }
+        },
+        {
+            "uid": "ltjy22d27h8",
+            "name": "Incorrect values in view",
+            "priority": {
+                "name": "Medium",
+                "value": 2
+            },
+            "takenUp": {
+                "email": "jack@black.com",
+                "uid": "JuAjcsVHvyLybA3uL86cZ6"
+            },
+            "updatedAt": "2019-02-18T17:38:40.142Z",
+            "age": "10",
+            "status": {
+                "name": "pending",
+                "value": 2,
+                "color": "#123j3"
+            }
         }
     ]
 }
