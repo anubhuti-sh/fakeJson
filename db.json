@@ -1,5 +1,5 @@
 {
-    "tickets/sdjc1232nks":
+    "tickets": [
         {
             "uid": "sdjc1232nks",
             "organization": {
@@ -91,4 +91,5 @@
                 }
             ]
         }
-  }
+    ]
+}
