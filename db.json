@@ -1,11 +1,95 @@
 {
-    "posts": [
-      {
-        "id": 1,
-        "title": "hello"
-      }
-    ],
-    "profile": {
-      "name": "typicode"
-    }
+    "tickets/sdjc1232nks": [
+        {
+            "uid": "sdjc1232nks",
+            "organization": {
+                "name": "DE_SHAW",
+                "uid": "12jh3288re"
+            },
+            "priority": {
+                "name": "High",
+                "value": 1
+            },
+            "name": "Electricity faliure in generator G1",
+            "elementUid": "5UK9n4RQV58BBhgFzQZxjb",
+            "owner": {
+                "email": "john@doe.com",
+                "uid": "7ya4XryV1dDDu29sMutP1o"
+            },
+            "elementType": "TODO",
+            "stage": "eye",
+            "status": {
+                "name": "pending",
+                "value": 2,
+                "color": "#123j3"
+            },
+            "createdAt": "2019-05-21T13:38:40.142Z",
+            "updatedAt": "2019-05-21T13:38:40.142Z",
+            "age": "",
+            "tags": [
+                {
+                    "name": "#tag1",
+                    "color": "#ffffff",
+                    "uid": "WivCUsUxjT5VT99AAst1rw"
+                },
+                {
+                    "name": "#tag2",
+                    "color": "#FF9E62",
+                    "uid": "RqfhgUp42cDWaJV86LHJJp"
+                }
+            ],
+            "takenUp": {
+                "email": "dj@sensehawk.com",
+                "uid": "Manz5bu87GDurBWRZ3Qsxx"
+            },
+            "attachments": [
+                {
+                    "uid": "UXIJL5N",
+                    "name": "Inverter warranty",
+                    "service": {
+                        "name": "aws-s3",
+                        "bucket": "skladsjljf",
+                        "key": "asdfasluefd",
+                        "region": "asdfadsf"
+                    }
+                }
+            ],
+            "properties": {
+                "lorem": "ipsum"           
+            },
+            "timeline": [
+                {
+                    "state": {
+                        "name": "pending",
+                        "value": 1,
+                        "color": "#ff4000"
+                    },
+                    "comment": "taken by generator mantainor",
+                    "takenUp": {
+                        "email": "shivam@sbenergy.com",
+                        "uid": "1C7wkGhHqJUpXizAbnCGMT"
+                    },
+                    "givenUp": null,
+                    "date": "2019-05-21T14:38:40.142Z"
+                },
+                {
+                    "state": {
+                        "name": "inProgress",
+                        "value": 2,
+                        "color": "#ffbf00"
+                    },
+                    "comment": "diagonst generator G1",
+                    "takenUp": {
+                        "email": "dj@sensehawk.com",
+                        "uid": "Manz5bu87GDurBWRZ3Qsxx"
+                    },
+                    "givenUp": {
+                        "email": "shivam@sbenergy.com",
+                        "uid": "1C7wkGhHqJUpXizAbnCGMT"
+                    },
+                    "date": "2019-05-21T16:38:40.142Z"
+                }
+            ]
+        }
+    ]
   }
